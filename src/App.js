@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="/"
+            href="https://github.com/webdesignworld/sveta-react-weather-app"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="/"
+            href="https://sveta-react-weather-app.onrender.com"
             target="_blank"
             rel="noopener noreferrer"
           >
