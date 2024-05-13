@@ -11,15 +11,15 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://www.delac.io/"
+            href="/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Matt Delac
+            Svetlana Delaney
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/wecodeschool/react-weather-app"
+            href="/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,11 +27,11 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://suspicious-beaver-111c4d.netlify.com/"
+            href="/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            hosted on Netlify
+            hosted on Render
           </a>
         </footer>
       </div>
