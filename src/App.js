@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="/"
+            href="https://webdesignworld.co.uk/"
             target="_blank"
             rel="noopener noreferrer"
           >
